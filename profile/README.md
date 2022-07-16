@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.imgur.com/ncy6T7K.png" alt="Logo" width="200" height="200"> </a>
+<p align="center"> <img src="https://i.imgur.com/x25TXyt.png" alt="Logo" width="200" height="200"> </a>
 <h1 align="center">DevCaveTeam</h1>
 
 ## `Developers`
