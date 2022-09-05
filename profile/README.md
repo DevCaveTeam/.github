@@ -3,7 +3,6 @@
 
 ## `Developers`
 - [ZerusDev](https://github.com/Zerus)
-- [TearX](https://github.com/TearX)
 - [Reigniteh](https://github.com/Reigniteh)
 
 ## `Builders`
